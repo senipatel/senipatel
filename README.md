@@ -6,7 +6,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on exciting web and mobile projects
 - 🌱 Learning Django, Flutter, Firebase, WebRTC, and more
 - 💬 Ask me about Python, JavaScript, Django, Flutter
 - 📫 How to reach me: [senipatel017@gmail.com](mailto:senipatel017@gmail.com)
@@ -33,14 +32,6 @@
 ![Seni Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senipatel&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senipatel&layout=compact&theme=radical)
-
----
-
-## 📌 Featured Projects
-
-- 🔐 **2FA Auth App** – Email-based OTP authentication with Django
-- 🖥️ **Screen Sharing** – WebRTC-based feature with permission control
-- 📋 **Project Management Site** – Includes dual/group chat, task tracking, and more
 
 ---
 
