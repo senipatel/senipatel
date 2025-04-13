@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on exciting web and mobile projects
 - 🌱 Learning Django, Flutter, Firebase, WebRTC, and more
 - 💬 Ask me about Python, JavaScript, Django, Flutter
-- 📫 How to reach me: [senipatel@example.com](mailto:senipatel@example.com) (update this!)
+- 📫 How to reach me: [senipatel017@gmail.com](mailto:senipatel017@gmail.com)
 - ⚡ Fun fact: I love turning ideas into real-world projects
 
 ---
