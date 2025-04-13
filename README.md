@@ -18,7 +18,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senipatel&layout=compact&theme=green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senipatel&layout=compact&theme=radical)
 
 ---
 
