@@ -1,15 +1,6 @@
-# Hi there, I'm Seni Patel 👋
+# Hi there, I'm <Seni Patel> 
 
 🎓 B.Tech CSE Student | 💻 Developer | 🚀 Always Learning
-
----
-
-## 🧑‍💻 About Me
-
-- 🌱 Learning Django, Flutter, Firebase, WebRTC, and more
-- 💬 Ask me about Python, JavaScript, Django, Flutter
-- 📫 How to reach me: [senipatel017@gmail.com](mailto:senipatel017@gmail.com)
-- ⚡ Fun fact: I love turning ideas into real-world projects
 
 ---
 
@@ -36,4 +27,4 @@
 ---
 
 Thanks for visiting! 😊
-
+- 📫 How to reach me: [senipatel017@gmail.com](mailto:senipatel017@gmail.com)
