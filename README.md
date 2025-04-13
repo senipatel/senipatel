@@ -20,8 +20,6 @@
 
 ##  GitHub Stats
 
-![Seni Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senipatel&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senipatel&layout=compact&theme=radical)
 
 ---
