@@ -18,7 +18,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Seni Patel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=senipatel&show_icons=true&theme=radical)
 
