@@ -1,4 +1,4 @@
-# Hi there, I'm <Seni Patel> 
+# Hi there, I'm Seni Patel
 
 🎓 B.Tech CSE Student | 💻 Developer | 🚀 Always Learning
 
