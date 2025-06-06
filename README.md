@@ -1,6 +1,6 @@
 # Hi there, I'm Seni Patel
 
-🎓 B.Tech CSE Student | 💻 Developer | 🚀 Always Learning
+🎓 B.Tech IT Student | 💻 Full Stack Developer | 🚀 Always Learning
 
 ---
 
