@@ -28,3 +28,7 @@
 
 Thanks for visiting! 😊
 - 📫 How to reach me: [senipatel017@gmail.com](mailto:senipatel017@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
