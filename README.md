@@ -24,20 +24,8 @@
          src="https://custom-icon-badges.herokuapp.com/github/followers/senipatel?color=5FABEE&labelColor=030314&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" /></a>
 </div>
 
-
-## 🛠️ Technologies & Tools
-
-![Python](https://img.shields.io/badge/-Python-333?&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?&logo=django)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?&logo=flutter)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?&logo=firebase)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
-
 ---
+<h3 align="left">⚡ My GitHub</h3>
 <div align="center">
 <a href="https://www.github.com"><img alt="senipatel's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/senipatel?cardType=github&theme=github-dark&preferLogin=false&Ring=303445&Background=002244" /></a>
 
@@ -45,10 +33,36 @@
 </div>
 
 ---
+<h3>💻 Tech Stack</h3>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" /> 
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/androidstudio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" />
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/ai-%23FF6F61.svg?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI" /> 
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/typescript-%230074C1.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+</div>
+<br/>
+
+<h3 align="left">📚 Languages & Tools I Have Placed My Hands On</h3>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,dotnet,django,github,react,next" /><br>
+  <img src="https://skillicons.dev/icons?i=python,bootstrap,html,css,tailwind,vscode,git,firebase" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,ai,mysql,java,c,php,androidstudio,express" /><br>
+</div>
 
 Thanks for visiting! 😊
 - 📫 How to reach me: [senipatel017@gmail.com](mailto:senipatel017@gmail.com)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
